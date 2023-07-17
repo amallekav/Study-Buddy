@@ -7,14 +7,17 @@ This Java program, Study Skills Recommendation, is designed to evaluate users' s
 User Evaluation: The program asks users a set of 10 questions to assess their studying skills, covering areas such as time management, note-taking, comprehension, focus, organization, and exam preparation.
 Average Score Calculation: Based on the user's responses, the program calculates the average score to determine their overall study skills proficiency.
 Personalized Recommendations: The program provides recommendations tailored to the user's average score, suggesting specific areas for improvement and offering practical advice to enhance their study habits.
-Getting Started
+
+**Getting Started**
 Ensure you have Java installed on your machine.
 Clone the repository or download the Java file.
 Compile the Java program using a Java compiler.
 Run the compiled program.
 Answer each question on a scale of 1-10.
 The program will calculate the average score and provide personalized recommendations for improving study skills.
-Usage Example
+
+
+**Usage Example**
 vbnet
 
 Copy code
