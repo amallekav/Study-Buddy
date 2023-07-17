@@ -44,14 +44,7 @@ Recommendations: Customize the recommendations based on the average score in the
 License
 This project is licensed under the MIT License.
 
-Feel free to modify, distribute, and use this code for personal and commercial purposes.
-
-**Contribution**
-Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please open an issue or submit a pull request.
-
-Let's work together to enhance the Study Skills Recommendation program!
-
 **Acknowledgments**
-This project was inspired by the goal of helping individuals improve their study habits and maximize their learning potential. We extend our appreciation to the open-source community for their valuable contributions and inspiration.
+This project was inspired by the goal of helping individuals improve their study habits and maximize their learning potential. 
 
 Happy studying and continuous learning!
